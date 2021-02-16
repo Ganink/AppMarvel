@@ -1,3 +1,3 @@
 # marvel
 
-https://ganink.github.io/marvel/
+https://ganink.github.io/AppMarvel/
